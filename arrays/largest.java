@@ -1,3 +1,6 @@
+// time complexity = o(n)
+// space complexity = o(1)
+
 public class largest {
     static int getlargest(int arr[],int n){
         int res=0;  // intializing index no 0 as largest 
