@@ -1,3 +1,6 @@
+// time complexity=o(n)
+//space complexity=o(n)
+
 import java.util.*;
 public class firstmissing{
     static Integer firstMissingPositive(int[] nums) {
